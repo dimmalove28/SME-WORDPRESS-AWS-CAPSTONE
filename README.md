@@ -1,11 +1,11 @@
-# SME Website Migration to AWS Cloud — Capstone Project
+# SME Website Migration to AWS Cloud: Capstone Project
 
 Migration of a Small and Medium Enterprise (SME) website to AWS Cloud, using
 WordPress on Amazon EC2, deployed both manually and via Terraform
 (Infrastructure as Code).
 
-**Author:** Dimmalove
-**Programme:** 3MTT Cloud Computing Training (Darey.io Academy)
+Author: Dimmalove
+**Programme:** 3MTT Cloud Computing Training 
 
 ## Repository contents
 
